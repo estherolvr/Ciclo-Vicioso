@@ -4,21 +4,6 @@
   <img src="https://drive.google.com/uc?export=view&id=18pYqd0XV3jZEwX_BzoItbffGwRA0q6Gv" alt="Ciclo Vicioso" width="400"/>
 </p>
 
----
-
-## 👥 Integrantes
-
-- [Bruno Eduardo Da Silva Pinho](https://github.com/Smug303)  
-- [Esther Oliveira Costa](https://www.linkedin.com/in/estherolvr/)  
-- Yanko Lee
-
-## 👨‍🏫 Professores Orientadores
-
-Adriano Felix Valente, Fabiano Alves Onça, Francisco de Souza Escobar, João Pedro da Costa Pinto,  
-[Victor Bruno Alexander Rosetti de Queiroz](https://www.linkedin.com/in/victorbarq/)
-
----
-
 ## 🧠 Sobre o Jogo
 
 > Um retrato do impacto da ansiedade no cotidiano moderno, **Ciclo Vicioso** coloca o jogador no papel de alguém com **Transtorno de Ansiedade Generalizada (TAG)**, explorando os desafios de viver sob pressão constante por produtividade e ausência de lazer.
